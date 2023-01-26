@@ -1,3 +1,25 @@
+## Changes
+### The below should be changed in the .env file 
+
+POSTGRES_HOST
+
+POSTGRES_DB
+
+POSTGRES_USER
+
+POSTGRES_PORT
+
+POSTGRES_PASSWORD
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 <img width="300" src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg#gh-light-mode-only">
 <img width="300" src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--dark.svg#gh-dark-mode-only">
